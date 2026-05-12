@@ -17,7 +17,7 @@ I've worked across healthcare, marketplaces, media, and consumer products — us
 
 ## Selected Work
 
-### Growth Scanner Pro Engine
+### Growth Blueprint
 
 Private internal tooling designed to audit public acquisition infrastructure and identify growth opportunities across modern web businesses.
 
