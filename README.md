@@ -121,6 +121,6 @@ I occasionally write about:
 ---
 
 ## Links
-
+[Portfolio](https://www.hafizdhanani.com/)
 * Portfolio: hafizdhanani.com
 * LinkedIn: linkedin.com/in/hafiz-dhanani
