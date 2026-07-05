@@ -122,4 +122,4 @@ I occasionally write about:
 
 ## Links
 * Portfolio: hafizdhanani.com
-* linkedin.com/in/hafiz-dhanani
+* LinkedIn: linkedin.com/in/hafiz-dhanani
