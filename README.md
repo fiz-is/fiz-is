@@ -101,8 +101,8 @@ Built with:
 
 ### Workflow
 
-* [Codex](https://www.codexusage.dev/)
-* Claude Code
+* Codex
+* [Claude Code](https://www.claudeusage.dev/)
 * Cursor (less noawadays)
 * Gemini
 * automated research + operational tooling
