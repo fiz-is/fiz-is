@@ -124,3 +124,4 @@ I occasionally write about:
 ## Links
 * Portfolio: hafizdhanani.com
 * LinkedIn: linkedin.com/in/hafiz-dhanani
+* Canada Startup Jobs: https://canadastartupjobs.ca
